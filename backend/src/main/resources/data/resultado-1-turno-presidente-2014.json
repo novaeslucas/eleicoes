@@ -1,0 +1,248 @@
+[
+	[
+		"UF",
+		"AC",
+		"Acre",
+		"AC",
+		[
+			"PSB",
+			"Marina Silva",
+			167603,
+			41.99,
+			"N"
+		],
+		[
+			"PSDB",
+			"Aécio Neves",
+			116109,
+			29.09,
+			"N"
+		],
+		[
+			"PT",
+			"Dilma",
+			111641,
+			27.97,
+			"N"
+		],
+		[
+			"PSC",
+			"Pastor Everaldo",
+			1203,
+			0.3,
+			"N"
+		],
+		[
+			"PSOL",
+			"Luciana Genro",
+			867,
+			0.22,
+			"N"
+		],
+		[
+			"PRTB",
+			"Levy Fidelix",
+			639,
+			0.16,
+			"N"
+		],
+		[
+			"PV",
+			"Eduardo Jorge",
+			597,
+			0.15,
+			"N"
+		],
+		[
+			"PSDC",
+			"Eymael",
+			282,
+			0.07,
+			"N"
+		],
+		[
+			"PSTU",
+			"Zé Maria",
+			112,
+			0.03,
+			"N"
+		],
+		[
+			"PCB",
+			"Mauro Iasi",
+			68,
+			0.02,
+			"N"
+		],
+		[
+			"PCO",
+			"Rui Costa Pimenta",
+			14,
+			0.0,
+			"N"
+		]
+	],
+	[
+		"Rio Branco",
+		"1200401",
+		"MU",
+		"01392",
+		"Acre",
+		"AC",
+		[
+			"PSB",
+			"Marina Silva",
+			115594,
+			58.34,
+			"N"
+		],
+		[
+			"PSDB",
+			"Aécio Neves",
+			44676,
+			22.55,
+			"N"
+		],
+		[
+			"PT",
+			"Dilma",
+			35802,
+			18.07,
+			"N"
+		],
+		[
+			"PSOL",
+			"Luciana Genro",
+			648,
+			0.33,
+			"N"
+		],
+		[
+			"PSC",
+			"Pastor Everaldo",
+			520,
+			0.26,
+			"N"
+		],
+		[
+			"PV",
+			"Eduardo Jorge",
+			346,
+			0.17,
+			"N"
+		],
+		[
+			"PRTB",
+			"Levy Fidelix",
+			332,
+			0.17,
+			"N"
+		],
+		[
+			"PSDC",
+			"Eymael",
+			155,
+			0.08,
+			"N"
+		],
+		[
+			"PSTU",
+			"Zé Maria",
+			39,
+			0.02,
+			"N"
+		],
+		[
+			"PCB",
+			"Mauro Iasi",
+			25,
+			0.01,
+			"N"
+		],
+		[
+			"PCO",
+			"Rui Costa Pimenta",
+			6,
+			0.0,
+			"N"
+		]
+	],
+	[
+		"Cruzeiro do Sul",
+		"1200203",
+		"MU",
+		"01074",
+		"Acre",
+		"AC",
+		[
+			"PSDB",
+			"Aécio Neves",
+			15165,
+			40.64,
+			"N"
+		],
+		[
+			"PT",
+			"Dilma",
+			12561,
+			33.66,
+			"N"
+		],
+		[
+			"PSB",
+			"Marina Silva",
+			9201,
+			24.66,
+			"N"
+		],
+		[
+			"PSC",
+			"Pastor Everaldo",
+			161,
+			0.43,
+			"N"
+		],
+		[
+			"PRTB",
+			"Levy Fidelix",
+			101,
+			0.27,
+			"N"
+		],
+		[
+			"PSOL",
+			"Luciana Genro",
+			47,
+			0.13,
+			"N"
+		],
+		[
+			"PV",
+			"Eduardo Jorge",
+			46,
+			0.12,
+			"N"
+		],
+		[
+			"PSDC",
+			"Eymael",
+			18,
+			0.05,
+			"N"
+		],
+		[
+			"PSTU",
+			"Zé Maria",
+			9,
+			0.02,
+			"N"
+		],
+		[
+			"PCB",
+			"Mauro Iasi",
+			5,
+			0.01,
+			"N"
+		]
+	]
+]
