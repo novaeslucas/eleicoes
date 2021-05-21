@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eleições Presidenciais 2014</title>
+	<link rel="stylesheet" href="css/leaflet.css"/>
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/main.css"/>
+</head>
+<body>
+	<div class="wrapper">
+		<nav id="sidebar">
+			<div class="sidebar-header">
+                <h3>Eleições Presidenciais 2014</h3>
+            </div>
+			<div class="sidebar-content">
+				<div class="row">
+					<div class="col">
+						<label for="partido" class="form-label">Partido</label>
+						<select id="partido" class="form-select">
+							<option selected>Selecione</option>
+							<option>PSDB</option>
+							<option>PT</option>
+							<option>PSB</option>
+							<option>PSC</option>
+							<option>PSOL</option>
+							<option>PRTB</option>
+							<option>PV</option>
+							<option>PSDC</option>
+							<option>PSTU</option>
+							<option>PCB</option>
+							<option>PCO</option>
+						</select>
+					</div>
+				</div>
+	
+				<div class="row">
+					<div class="col">
+						<label for="estado" class="form-label">Estado</label>
+						<select id="estado" class="form-select" aria-label="Estado">
+							<option selected>Selecione</option>
+							<option>AC</option>
+							<option>AL</option>
+							<option>AP</option>
+							<option>AM</option>
+							<option>BA</option>
+							<option>CE</option>
+							<option>DF</option>
+							<option>ES</option>
+							<option>GO</option>
+							<option>MA</option>
+							<option>MT</option>
+							<option>MS</option>
+							<option>MG</option>
+							<option>PA</option>
+							<option>PB</option>
+							<option>PR</option>
+							<option>PE</option>
+							<option>PI</option>
+							<option>RJ</option>
+							<option>RN</option>
+							<option>RS</option>
+							<option>RO</option>
+							<option>RR</option>
+							<option>SC</option>
+							<option>SP</option>
+							<option>SE</option>
+							<option>TO</option>
+						</select>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<div id="content">
+			<nav class="navbar">
+				<div class="container-fluid">
+					<h4>Distribuição de votos por partido nas unidades político administrativas</h4>
+				</div>
+			</nav>
+			<div id="mapid" style="height: 100%;">
+				<div class="jumbotron jumbotron-fluid">
+					<div class="container">
+					  <p class="lead">Para iniciar selecione um partido e um estado no menu ao lado.</p>
+					</div>
+				  </div>
+			</div>
+		</div>
+	</div>
+    <script src="js/jquery-3.6.0.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/leaflet.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
