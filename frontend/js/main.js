@@ -39,7 +39,7 @@ $('#partido').change(function(){
 					}
 				}).addTo(map);
 				
-				layer.bindTooltip('Votos recebidos: ' + votosPorPartido.toString()).addTo(map);
+				layer.bindTooltip(infoEstados[i].nome + ' - ' + infoEstados[i].sigla + '<br/>Votos recebidos: ' + votosPorPartido.toString()).addTo(map);
 				
 				function obterCor(){
 					return intensidade > 50  ? '#800026' :
@@ -116,7 +116,7 @@ $('#estado').change(function(){
 					}
 				}).addTo(map);
 				
-				layer.bindTooltip('Votos recebidos: ' + votosPorPartido.toString()).addTo(map);
+				layer.bindTooltip(infoMunicipios[i].nome + '<br/>Votos recebidos: ' + votosPorPartido.toString()).addTo(map);
 				
 				function obterCor(){
 					return intensidade > 50  ? '#800026' :
